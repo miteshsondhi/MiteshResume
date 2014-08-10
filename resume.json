@@ -1,0 +1,85 @@
+{
+    "basics": {
+        "name": "Mitesh Sondhi",
+        "label": "Web Developer ",
+        "picture": "",
+        "email": "miteshsondhi@gmail.com",
+        "phone": "+91-8377032823",
+        "summary": "I’m a full stack web developer who loves working with open source technology. I also love to develop front-end of website. I am best in creating web applications with node.js",
+        "location": {
+            "address": "#36 ward no-2",
+            "postalCode": "177033",
+            "city": "Nadaun",
+            "countryCode": "IN"
+        },
+        "profiles": [{
+            "network": "StackOverflow",
+            "username": "miteshsondhi",
+            "url": "http://stackoverflow.com/users/3351504/mitesh"
+        }, {
+            "network": "Github",
+            "username": "miteshsondhi",
+            "url": "https://github.com/miteshsondhi"
+        }]
+    },
+    "work": [{
+        "company": "Shoolini University",
+        "position": "Student",
+        "startDate": "2013-10-27",
+        "endDate": "2014-01-25",
+        "summary": "This is an Android application which get friends bdays from facebook api and alert users on their friend bday."
+    }],
+    "volunteer": [],
+    "education": [{
+        "institution": "Shoolini University",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "2011-06-01",
+        "endDate": "2014-01-01",
+        "gpa": "6.3"
+    }],
+    "awards": [{
+        "title": "Best Major Project",
+        "date": "2014-11-01"
+    }],
+    "publications": [],
+    "skills": [{
+        "name": "Web Development",
+        "level": "Intermediate",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "NodeJS",
+            "AngularJS",
+            "jQuery"
+        ]
+    }, {
+        "name": "Mobile",
+        "level": "Intermediate",
+        "keywords": [
+            "Android"
+        ]
+    }, {
+        "name": "Linux",
+        "level": "Intermediate",
+        "keywords": [
+            "Ubuntu"
+        ]
+    }, {
+        "name": "Version Management",
+        "level": "Master",
+        "keywords": [
+            "GIT"
+        ]
+    }],
+    "languages": [{
+        "language": "Hindi",
+        "fluency": "Native speaker"
+    }, {
+        "language": "English",
+        "fluency": "Basic"
+    }],
+    "interests": [],
+    "references": []
+}
